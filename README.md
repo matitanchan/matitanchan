@@ -4,6 +4,9 @@ Dashがいれば何でもできると信じています。(I believe I can do ev
 
 ### すきなもの(Likes)
 - ウマ娘(Umamusume: Pretty Derby)
+- シーザリオ(Cesario)
+- マチカネタンホイザ(Matikanetannhauser)
+- その他ウマ娘みんな(All other Umamusume)
 - Flutter/Dart
 - Dash(Flutter/Dart Mascot Character)
 - 決済端末(Payment Terminal)
