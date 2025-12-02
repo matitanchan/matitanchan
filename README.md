@@ -1,5 +1,8 @@
-## Hi there 👋
+## どっかいにいるオタク高専生
 
+Dashがいれば何でもできると信じています。
+
+### 主な使用技術
 <img src="https://skillicons.dev/icons?i=dart,flutter" /> <br /><br />
 <!--
 **matitanchan/matitanchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
