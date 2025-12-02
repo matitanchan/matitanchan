@@ -1,6 +1,15 @@
 ## どっかにいるオタク高専生
 
-Dashがいれば何でもできると信じています。
+Dashがいれば何でもできると信じています。(I believe I can do everything with Dash.)
 
-### 主な使用技術
+### すきなもの(Likes)
+- ウマ娘(Umamusume: Pretty Derby)
+- Flutter/Dart
+- Dash(Flutter/Dart Mascot Character)
+- 決済端末(Payment Terminal)
+- 同人誌(Dojinshi)
+- ラーメン豚山(Japanese Jiro-style Ramen Butayama)
+- 音MAD(YTPMV)
+
+### 主な使用技術(Main technologies used)
 <img src="https://skillicons.dev/icons?i=dart,flutter" /> <br /><br />
