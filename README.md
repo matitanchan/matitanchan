@@ -11,7 +11,6 @@ Dashがいれば何でもできると信じています。(I believe I can do ev
 - Dash(Flutter/Dart Mascot Character)
 - 決済端末(Payment Terminal)
 - 同人誌(Dojinshi)
-- ラーメン豚山(Japanese Jiro-style Ramen Butayama)
 - 音MAD(YTPMV)
 - 東京BRT(TOKYO BRT)
 
