@@ -7,6 +7,7 @@ Dashがいれば何でもできると信じています。(I believe I can do ev
 - シーザリオ(Cesario)
 - マチカネタンホイザ(Matikanetannhauser)
 - その他ウマ娘みんな(All other Umamusume)
+- とまチョップ(Tomachop-Character of City of Tomakomai,Hokkaido,Japan)
 - Flutter/Dart
 - Dash(Flutter/Dart Mascot Character)
 - 決済端末(Payment Terminal)
