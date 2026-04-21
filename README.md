@@ -17,3 +17,7 @@ Dashがいれば何でもできると信じています。(I believe I can do ev
 
 ### 主な使用技術(Main technologies used)
 <img src="https://skillicons.dev/icons?i=dart,flutter" /> <br /><br />
+
+### 身体情報
+身長:169.3cm
+体重:84.0kg
